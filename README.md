@@ -16,6 +16,6 @@
 ---
 ## 🚀  Project Live Link <br>
 ---
-This project is been hosted on netlify. [Live Project Link](https://boisterous-faloodeh-48f1f4.netlify.app/)
+This project is been hosted on netlify. [Live Project Link](https://lambent-klepon-39b18d.netlify.app/)
 
 ![Wbsite design](/Design%20Home%20page.png)
