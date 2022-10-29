@@ -18,4 +18,4 @@
 ---
 This project is been hosted on netlify. [Live Project Link](https://lambent-klepon-39b18d.netlify.app/)
 
-![Wbsite design](/Design%20Home%20page.png)
+![Wbsite design](./Design-Home-page.png)
